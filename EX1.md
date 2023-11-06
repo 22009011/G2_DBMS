@@ -2,7 +2,7 @@
 
 ## AIM:
 To create a student database and execute DDL queries using SQL.
-
+## DATE: 
 
 ## DDL (Data Definition Language)
 <div align="justify">
